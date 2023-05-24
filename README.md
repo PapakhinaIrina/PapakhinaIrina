@@ -5,9 +5,18 @@
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="480" height="480" />
   
  <div id="badges">
-  <img href="https://www.linkedin.com/in/irina-papakhina-52598524a/"src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img href="papahinairina@gmail.com" src="https://img.shields.io/badge/Mail-purple?style=for-the-badge&logo=google&logoColor=white" alt="Mail Badge"/>
-  <img href="https://t.me/@papakhina_irina" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/
+   <a href="https://www.linkedin.com/in/irina-papakhina-52598524a/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   
+   <a href="papahinairina@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-purple?style=for-the-badge&logo=google&logoColor=white" alt="Mail Badge"/>
+   </a>
+   
+   <a href="https://t.me/@papakhina_irina">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+   </a>
+   
 </div>
 </div>
 
