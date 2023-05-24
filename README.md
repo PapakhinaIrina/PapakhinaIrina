@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Mail-purple?style=for-the-badge&logo=google&logoColor=white" alt="Mail Badge"/>
    </a>
    
-   <a href="@papakhina_irina">
+   <a href="https://t.me/papakhina_irina">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
    
