@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
    
-   <a href="papahinairina@gmail.com">
+   <a href="papakhina.irina@mail.ru">
   <img src="https://img.shields.io/badge/Mail-purple?style=for-the-badge&logo=google&logoColor=white" alt="Mail Badge"/>
    </a>
    
